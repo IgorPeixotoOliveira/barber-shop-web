@@ -1,0 +1,38 @@
+:root {
+    /* Fontes */
+    --fonte-principal: 'Poppins', sans-serif;
+  
+    /* Cores */
+    --cor-fundo-header: #000000;
+    --cor-texto: #ffffff;
+    --cor-botao: #f0b35b;
+    --cor-fundo-sobre: #0d121e;
+  
+    /* Tamanhos */
+    --altura-header: 96px;
+    --largura-logo: 81px;
+    --altura-logo: 90px;
+    --espaco-menu: 34px;
+  
+    --largura-botao: 211px;
+    --altura-botao: 44px;
+    --raio-borda-botao: 10px;
+  
+    --fonte-titulo-home: 48px;
+    --fonte-texto-normal: 16px;
+    --fonte-horario: 18px;
+    --fonte-titulo-sobre: 40px;
+  
+    /* Espaçamentos */
+    --margem-logo-esquerda: 30px;
+    --margem-botao-direita: 30px;
+    --margem-topo-textos: 20px;
+    --margem-topo-botao: 24px;
+  
+    /* Layouts */
+    --altura-home: 90vh;
+    --altura-sobre: 945px;
+    --padding-direita-sobre: 10%;
+    --largura-max-descricao: 477px;
+    --background-image-home: url('../images/home-background.jpg');
+  }
